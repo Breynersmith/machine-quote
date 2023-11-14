@@ -7,7 +7,7 @@ const App = () => {
   return (
     <BrowserRouter>
     <Routes>
-      <Route path="/machine-quote" element={<Home />} />
+      <Route path="/machine-quotes" element={<Home />} />
     </Routes>
   </BrowserRouter>
   );
